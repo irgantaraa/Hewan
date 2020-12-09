@@ -7,7 +7,6 @@ package hewan;
 
 /**
  *
- * @author M.'Azzam Hanif
  */
 public class Hewan extends infoTambahan {// Biar bisa mengabil data dari class infoTambahan
 
