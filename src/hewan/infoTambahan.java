@@ -7,7 +7,6 @@ package hewan;
 
 /**
  *
- * @author M.'Azzam Hanif
  */
 public class infoTambahan {
     private String NamaKucing, sound;
